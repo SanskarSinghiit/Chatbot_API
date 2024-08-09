@@ -1,11 +1,9 @@
-# JavaScript Chatbot 
+**ChatBot App** is a conversational AI designed to provide intuitive and engaging interactions.
+Whether you need assistance, information, or just a friendly chat, our bot is here to help.
 
-This is a very simple "chatbot" using nothing but JavaScript, HTML, & CSS. I put this in quotes because chatbots these days are way more complex - this is an exercise in vanilla JS loops and conditionals, not AI.
+### Features
+- **Natural Language Processing**: Understands and responds to user queries with context.
+- **24/7 Availability**: Always ready to assist, no matter the time.
+- **Customizable Responses**: Tailor responses to fit different scenarios or personalities.
 
-I hope it makes a good intro for anyone interested in chatbots and frontend fundamentals.
-
-Enjoy!
-
-[Demo](https://sylviapap.github.io/chatbot/)
-
-[Blog post](https://dev.to/sylviapap/make-a-simple-chatbot-with-javascript-1gc)
+[Deployed Link](https://chatbot-api-omega.vercel.app/)
